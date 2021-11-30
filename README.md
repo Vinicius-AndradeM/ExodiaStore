@@ -1,4 +1,4 @@
-# Projeto para a matéria Sistemas Multimídia 📹
+# Projeto para a disciplina Sistemas Multimídia 📹
 
 Desenvolver um protótipo usando 📄:
 
